@@ -1,0 +1,54 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Della+Respira&family=Montserrat:wght@400;500;700&display=swap" rel="stylesheet">
+
+body{
+	margin:0;  
+	padding:10px;
+}
+.outer{
+   text-align: center;
+   padding:20px;
+}
+.page{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 16px;
+   width:800px;
+   height:95vh;
+   display: inline-block;
+   text-align:left;
+   padding:10px;
+   background-color: white;
+}
+a{
+  color:black;
+  font-size:16px;
+  font-weight: bolder;
+  text-decoration: none;
+  margin-right:50px;
+}
+
+a:hover {
+  color:mediumslateblue;  
+ }
+  a:active {
+  color:indianred;
+}
+.nav{
+  font-family: 'Montserrat', sans-serif;
+   margin-left:10px;
+   margin-top:10px;
+   text-align: right;
+}
+
+.navhere{
+	color:lightslategrey;
+}
+
+.headline{
+	font-family: 'Della Respira', serif;
+	font-size: 36px;
+}
+
+  
+	  
