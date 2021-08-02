@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	color: #FFF;
+	background-color: #000;
+	margin:0;
+	padding:5px;
+	text-align: center;
+}
+
+
+/*HERO IMAGE*/
+
+.hero_content{
+	padding-right: 10px;
+	font-size: 100px;
+	text-align: left;
+}
+
+.hero_text_header{
+	position: absolute;
+	margin-top: -250px;
+	font-weight: bold;
+	font-size: 10vw;
+	justify-content: left;
+}
+
+.hero_content img{
+	width: 100%;
+}
+
+
+/*SIDE BAR*/
+
+.sidebar{
+	height: 100%;
+	width:200px;
+	overflow: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	float: right;
+	text-align: center;
+	}
+
+.sidebar .section{
+	margin-top: 210px;
+	font-weight: 800;
+	display: block
+}
+
+.sidebar img{
+	float: right;
+	width: 200px;
+}
+
