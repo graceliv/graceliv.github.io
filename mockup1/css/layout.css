@@ -1,0 +1,74 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 14px;
+	font-weight: 400;
+	color: #FFF;
+	background-color: #000;
+	margin:0;
+	padding:5px;
+	text-align: center;
+}
+
+.outer{
+	text-align: center;
+}
+
+.page{
+	max-width: 1200px;
+	width:100%;
+	display:inline-block;
+}
+
+.topnav img{
+	float:left;
+	padding: 10px;
+	width:100px;
+}
+
+/*HERO IMAGE*/
+
+.hero_content{
+	padding-right: 10px;
+	font-size: 100px;
+	text-align: left;
+}
+
+.hero_text_header{
+	width: auto;
+	position: absolute;
+	margin-top: -220px;
+	font-weight: bold;
+	font-size: 9vw;
+	justify-content: left;
+}
+
+.hero_content img{
+	width: 100%;
+}
+
+
+/*SIDE BAR*/
+
+.sidebar{
+	height: 100%;
+	width:200px;
+	overflow: auto;
+	margin-bottom: 20px;
+	float: right;
+	text-align: center;
+	}
+
+.sidebar .section{
+	margin-top: 210px;
+	font-weight: 800;
+	display: block
+}
+
+.sidebar img{
+	float: right;
+	width: 200px;
+}
+
